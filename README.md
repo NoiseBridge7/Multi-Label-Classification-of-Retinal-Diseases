@@ -115,7 +115,7 @@ This project leverages:
 
 1. Open the notebook in [Google Colab](https://colab.research.google.com/).
 2. Upload your `kaggle.json` to access the dataset.
-   2.1 To get the kaggle.json file if you dont have one it is present in the settings tab of your kaggle account as API
+   2.1 To get the kaggle.json file if you dont have one it is present in the settings tab of your kaggle account as API.
    Note: It is important you have this file as it allows the dataset to be used in collab
 3. Run all cells in the notebook `Multi-Label Classification of Retinal Diseases.ipynb`.
 
